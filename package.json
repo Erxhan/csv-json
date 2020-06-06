@@ -1,0 +1,16 @@
+{
+  "name": "csvToJson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csvToJson.js",
+  "scripts": {
+    "start": "nodemon csvToJson.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
