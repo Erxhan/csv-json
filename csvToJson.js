@@ -34,5 +34,13 @@ fs.readFile('translations.tsv', (err, data) => {
         newObj[headers[key]] = value
     })
 
+    Object.entries(newObj).forEach(([key, value]) => {
+        fs.writeFile(`${key}.json`, JSON.stringify(value), (err) => {
+            if (err) throw err;
+            console.log('SUCCESS WRITING JSON')
+            return
+        })
+    })
+
     console.log('newObj ===>', newObj)
 })
