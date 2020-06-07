@@ -1,1 +1,5 @@
-{"_age_years_old_patient_from_locality_":"{age} years old patient, from {zipcode} {locality}","_age_years_old_patient_from_locality_2":"{age} years old patient, from {zipcode} {locality} 2","_age_years_old_patient_from_locality_3":"{age} years old patient, from {zipcode} {locality} 3"}
+{
+  "_age_years_old_patient_from_locality_": "{age} years old patient, from {zipcode} {locality}",
+  "_age_years_old_patient_from_locality_2": "{age} years old patient, from {zipcode} {locality} 2",
+  "_age_years_old_patient_from_locality_3": "{age} years old patient, from {zipcode} {locality} 3"
+}
