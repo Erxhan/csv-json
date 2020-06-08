@@ -24,6 +24,8 @@ fs.readFile('translations.tsv', (err, data) => {
                 }
             } else {
                 if (index !== 0) {
+                    console.log('rowSplit[index] ===>', rowSplit[index])
+                    debugger;
                     obj[index] = {...obj[index], [rowSplit[0]]: rowSplit[index]}
                 }
             }

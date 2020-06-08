@@ -1,4 +1,203 @@
 Variable	en	fr_BE	nl_BE
 _age_years_old_patient_from_locality_	{age} years old patient, from {zipcode} {locality}	Un patient de {age} ans, de {zipcode} {locality}	{age} jaar oud patiënt, van {zipcode} {locality}
-_age_years_old_patient_from_locality_2	{age} years old patient, from {zipcode} {locality} 2	Un patient de {age} ans, de {zipcode} {locality} 2	{age} jaar oud patiënt, van {zipcode} {locality} 2
-_age_years_old_patient_from_locality_3	{age} years old patient, from {zipcode} {locality} 3	Un patient de {age} ans, de {zipcode} {locality} 3	{age} jaar oud patiënt, van {zipcode} {locality} 3
+_emergencies	{count} emergencies	{count} urgences	{count} spoedgevallen
+_years_old	{years} years old	{years} ans	{years} jaar oud
+Accept	Accept	Accepter	Aanvaarden
+Account	Account	Compte	Profiel
+Account_created_with_success	Account created with success	Compte créé avec succès	Profiel aangemaakt
+Add_another_pratician	Add another practitioner	Ajouter un autre praticien	Nieuwe arts toevoegen
+Add_an_office	Add an office	Ajouter un cabinet	Praktijk toevoegen
+Add_Edit_Calendars	Add/Edit Calendars	Ajouter/Editer Calendriers	Kalenders toevoegen/bewerken
+Age	Age	Age	Leeftijd
+Agenda_Synchronization	Agenda Synchronization	Synchronisation Agenda	Agenda Synchronization
+AGENDA_SYNCHRONIZATION_HTML	<p class=\"font-weight-bold\">Would you want to synchronize your Google Agenda with Tooddoc?</p><p class=\"mb-0\">Synchronize your agenda and we will automatically add your availabilities depending on your schedule.</p>	<p class=\"font-weight-bold\">Voulez-vous synchroniser votre Google Agenda avec Tooddoc?</p><p class=\"mb-0\">Synchronisez votre agenda et nous ajouterons automatiquement vos disponibilités selon votre horaire.</p>	<p class=\"font-weight-bold\">Zou u graag uw Google Agenda met Tooddoc synchroniseren?</p><p class=\"mb-0\">Door te synchroniseren kunnen wij uw beschikbaarheden automatisch updaten.</p>
+An_error_occured__please_try_again_	An error occured, please try again.	Une erreur s'est produite, veuillez réessayer.	Er is iets fout gebeurd, probeer opnieuw aub.
+Are_you_sure_you_want_to_cancel_this_invitation_	Are you sure you want to cancel this invitation?	Etes-vous certain de vouloir annuler cette invitation?	Bent u zeker dat u dit voorstel wilt annuleren?
+Authorize	Authorize	Autoriser	Toestaan
+Availabilities	Availabilities	Disponibilités	Beschikbaarheden
+Avatar	Avatar	Avatar	Avatar
+Calendars	Calendars	Calendriers	Kalenders
+CALENDARS__MANAGE_ALERT	Your availabilities are synchronized with your Google Agenda. You can manage how this works below.	Vos disponibilités sont synchronisées avec votre Google Agenda. Vous pouvez gérer le fonctionnement ci-dessous.	Uw beschikbaarheden worden gesynchroniseerd met uw Google Agenda. U kan dit hieronder beheren.
+CALENDARS__SYNC_ALERT_TEXT	Synchronize your agenda and we will automatically add your availabilities depending on your schedule.	Synchronisez votre agenda et nous ajouterons automatiquement vos disponibilités selon votre horaire.	Synchroniseer Tooddoc met uw agenda om uw beschikbaarheden automatisch te laten verschijnen, afhankelijk van uw uurrooster.
+CALENDARS__SYNC_ALERT_TITLE	Would you want to synchronize your Google Agenda with Tooddoc?	Voulez-vous synchroniser votre Google Agenda avec Tooddoc?	Zou u graag uw Google Agenda synchroniseren met Tooddoc?
+CALENDARS__SYNC_NOT_AVAILABLE_ON_MOBILE	<p>You need a computer to activate the Google Calendar synchronisation - afterwards it will be visible on your phone too.</p>	<p>Passez par le site web sur votre ordinateur pour activer la synchronisation Google Calendar.</p>	<p>U moet de Google Calendar vanuit uw computer synchroniseren - daarna lukt het op mobiel ook.</p>
+CALENDARS__SYNC_STEP_1_HTML	<p>First we need you to authorize Tooddoc to access your Google Agenda calendars & events.</p><p class=\"mb-0\">Click \"Authorize\" & follow the instructions.</p>	<p>D'abord nous avons besoin de votre autorisation pour accéder à votre calendrier et vos événements Google.</p><p class=\"mb-0\">Cliquez \"autoriser\" et suivez les instructions.</p>	<p>Eerst hebben wij uw toestemming nodig om toegang te krijgen tot uw Google Agenda kalenders en evenementen.</p><p class=\"mb-0\">Klik \"toestaan\" en volg de instructies.</p>
+CALENDARS__SYNC_STEP_4_HTML	<p>Thanks you! You agendas will start to synchronize in a few minutes.</p><p class=\"mb-0\">Don't forget that you won't be able to manually add or remove availabilities from Tooddoc. If you want to make yourself unavailable, add an event in your Google Agenda.</p>	<p>Merci! Vos agendas se synchroniseront dans quelques minutes.</p><p class=\"mb-0\">N'oubliez pas que vous n'êtes désormais plus capable de changer vos disponibilités manuellement depuis l'interface Tooddoc. Si vous souhaitez vous rendre indisponible, ajoutez un événement dans votre Google Agenda.</p>	<p>Bedankt! Uw kalender zal binnen een paar minuten synchroniseren.</p><p class=\"mb-0\">Vergeet niet dat u binnen Tooddoc uw beschikbaarheden niet meer kan beheren. Als u onbeschikbaar wenst te worden op een bepaalde tijdstip, moet u een evenement toevoegen in uw Google Agenda.</p>
+CALENDARS__UNLINK_WARNING	Are you sure that you want to unlink this account? This will disable the automatic availabilities synchronization for all its synchronized calendars.	Etes-vous certain que vous ne souhaitez plus synchroniser ce compte? Cela va arrêter la synchronisation automatique de vos disponibilités pour tous les calendriers liés.	Bent u zeker dat u deze account wilt verwijderen? Het zal de synchronisatie en het automatisch detecteren van uw beschikbaarheden annuleren.
+Cancel	Cancel	Annuler	Annuleren
+Cancel_an_Appointment_Invitation	Cancel an Appointment Invitation	Annuler une invitation de rendez-vous	Annuleer een voorgestelde afspraak
+Cancelled	Cancelled	Annulé	Geannuleerd
+Cancelled_By_Patient	Cancelled By Patient	Annulé par le patient	Geannuleerd door de patiënt
+Change_avatar	Change avatar	Changer d'avatar	Avatar veranderen
+Close	Close	Fermer	Sluiten
+Confirm	Confirm	Confirmer	Bevestigen
+Confirmed	Confirmed	Confirmé	Bevestigd
+Connect_My_Google_Agenda	Connect My Google Agenda	Connecter mon Google Agenda	Verbind mijn Google Agenda
+Connect_your_Google_Agenda_with_Tooddoc	Connect your Google Agenda with Tooddoc	Connecter mon Google Agenda avec Tooddoc	Verbind uw Google Agenda met Tooddoc
+Continue	Continue	Continuer	Verder
+Country	Country	Pays	Land
+Country_be	Belgium	Belgique	België
+Create	Create	Créer	Aanmaken
+Create_a_new_office	Create a new office	Ajouter un nouveau cabinet	Nieuwe ligging registreren
+Dashboard	Dashboard	Tableau de bord	Dashboard
+Declined	Declined	Refusé	Geweigerd
+Delete_office	Delete office	Supprimer un cabinet	Praktijk verwijderen
+DELETE_OFFICE_HTML	<p>In order to delete an office of yours, please contact an administrator.</p>	<p>Afin de supprimer un de vos cabinets, veuillez contacter un administrateur.</p>	<p>Om een praktijk te verwijderen, gelieve een admin te contacteren.</p>
+Delete_this_office	Delete this office	Supprimer ce cabinet	Deze praktijk verwijderen
+Details	Details	Détails	Details
+Dismiss	Dismiss	Ne plus afficher	Niet meer weergeven
+Edit	Edit	Editer	Bewerken
+Edit_my_offices	Edit my offices	Editer mes cabinets	Bewerk mijn praktijken
+Edit_office	Edit office	Editer cabinet	Praktijk bewerken
+Email_address	Email address	Adresse email	Email adres
+Emergencies	Emergencies	Urgences	Spoedgevallen
+Emergency_accepted	Emergency accepted	Urgence acceptée	Spoedgeval aanvaard
+End	End	Fin	Einde
+First_name	First name	Prénom	Voornaam
+Finish	Finish	Terminer	Beeïndigen
+FORMAT_DATE	MMMM Do	MMMM Do	MMMM Do
+FORMAT_DATE_TIME	MMMM Do HH:mm	MMMM Do HH:mm	MMMM Do HH:mm
+FORMAT_TIME	HH:mm	HH:mm	HH:mm
+Friday	Friday	Vendredi	Vrijdag
+Geocoding_error_zero_results	We did not find your address. Please check again.	Nous n'avons pas trouvé votre adresse. Veuillez vérifer.	We hebben uw adres niet gevonden. Gelieve te controleren.
+Go_back	Go back	Retour	Terug
+I_accept_the_terms_of_use_and_the_privacy_policy_html	I accept the <a href=\"https://tooddoc.com/en/terms-of-use\" target=\"_blank\">terms of use</a> & <a href=\"https://tooddoc.com/en/privacy-policy\" target=\"_blank\">privacy policy</a>	J'accepte les conditions <a href=\"https://tooddoc.com/en/terms-of-use\" target=\"_blank\">d'utilisation</a> & <a href=\"https://tooddoc.com/en/privacy-policy\" target=\"_blank\">de vie privée</a>	Ik aanvaard de <a href=\"https://tooddoc.com/en/terms-of-use\" target=\"_blank\">gebruiksvoorwaarden</a> & <a href=\"https://tooddoc.com/en/privacy-policy\" target=\"_blank\">het privacybeleid</a>
+I_accept_to_receive_email_notifications_for_new_emergencies_near_this_office	I accept to receive email notifications for new emergencies near this office	J'accepte de recevoir des emails à propos des urgences près de ce cabinet	Ik word gewaarschuwd voor spoedgevallen dicht bij deze praktijk
+I_am_regulated	I am regulated	Je suis conventionné	Ik ben een fondsdokter
+Inami	INAMI	INAMI	INAMI
+Invitation_cancelled_with_success	Invitation cancelled with success	Invitation effectivement annulée	Voorstel geannuleerd
+In_which_calendar_should_Tooddoc_write_the_appointments_you_ll_get_through_our_platform_	In which calendar should Tooddoc write the appointments you'll get through our platform?	Dans quel calendrier voudriez-vous que Tooddoc écrive les rendez-vous qui seront réservés via la plateforme?	In welke kalender moet Tooddoc uw nieuwe afspraken opnemen?
+It_seems_like_you_didn_t_finish_the_process__Please_try_again_	It seems like you didn't finish the process. Please try again.	Il semblerait que vous n'ayez pas terminé le processus. Veuillez réessayer.	Het proces werd niet voltooid. Gelieve nog eens te proberen.
+Language	Language	Langage	Taal
+Last_name	Last name	Nom	Naam
+Locality	Locality	Localité	Plaats
+Login_successful	Login successful	Connexion réussie	Login geslaagd
+Medical_practice	Medical practice	Pratique médicale	Soort medische praktijk
+Medical_practice_DENTIST	Dentist	Dentiste	Tandarts
+Medical_practice_GENERAL_PRACTITIONER	General practitioner	Médecin généraliste	Arts
+Medical_practice_GYNECOLOGIST	Gynecologist	Gynécologue	Gynaecoloog
+Medical_practice_OPHTHALMOLOGIST	Ophthalmologist	Ophtalmologue	Oogarts
+Medical_practice_PEDIATRICIAN	Pediatrician	Pédiatre	Kinderarts
+Medical_practice_PSYCHOLOGIST	Psychologist	Psychologue	Psycholoog
+Medical_practice_DERMATOLOGIST	Dermatologist	Dermatologue	Dermatoloog
+Medical_practice_OSTEOPATH	Osteopath	Ostéopathe	Osteopaat
+Medical_practice_PSYCHIATRIST	Psychiatrist	Psychiatre	Psychiater
+Medical_practice_PHYSIOTHERAPIST	Physiotherapist	Kinésithérapeute	Fysiotherapeut
+Monday	Monday	Lundi	Maandag
+My_availabilities	My availabilities	Mes disponibilités	Mijn beschikbarheden
+My_offices	My Offices	Mes cabinets	Mijn praktijken
+My_profile	My profile	Mon profil	Mijn profiel
+Name	Name	Nom	Naam
+No_emergencies	No emergencies	Pas d'urgences	Geen spoedgeval
+No_emergencies_for_this_office	Sorry but we don't have any emergency to show you at the moment.	Désolé, nous n'avons pas d'urgence à vous montrer pour le moment.	Sorry, er zijn geen spoedgevallen op dit moment.
+Nothing_is_on_your_schedule_	Nothing is on your schedule!	Rien dans votre agenda!	Niets staat op uw schema!
+Number	Number	Nombre	Nummer
+OFFICE_CREATED_HTML	<p>Great! Your office has been created.</p><p>You will be redirected to the dashboard in an instant...</p>	<p>Génial! Votre cabinet a été créé.</p><p>Vous serez redirigé vers le tableau de bord dans un instant... </p>	<p>Geweldig! Uw praktijk werd aangemaakt.</p><p>U zal in een ogenblik naar uw dashboard doorgestuurd worden...</p>
+Office_created_with_success	Office created with success	Cabinet créé avec succès	Praktijk aangemaakt
+Office_name	Office name	Nom du cabinet	Praktijk naam
+Office_schedule	Office schedule	Horaire du cabinet	Praktijk rooster
+OFFICE_SCHEDULE_HTML	<p>Please specify your working schedule so that we can book your agenda during your working hours.</p><p>Select the days you are accepting emergencies and the timetable of your typical day.</p>	<p>Veuillez spécifier votre horaire de travail afin que nous puissions remplir votre agenda.</p><p>Sélectionnez les jours pendant lesquels vous travaillez et l'horaire de votre journee de travail.</p>	<p>Vermeld aub uw werkrooster zodat wij uw beschikbaarheden kunnen afleiden.</p><p>Selecteer de dagen waarop uw spoedgevallen zou aanvaarden en vermeld uw typische werkrooster.</p>
+Office_schedule_updated_with_success	Office schedule updated with success	Horaire du cabinet mis à jour	Praktijk rooster aangepast
+Office_updated_with_success	Office updated with success	Cabinet mis à jour	Praktijk gegevens aangepast
+Patient_information	Patient information	Information du patient	Gegevens van patiënt
+Pending_confirmation	Pending confirmation	Confirmation en attente	In afwachting van bevestiging
+Pending_Certification	Pending Certification	Certification en attente	In afwachting van certificatie
+PENDING_CERTIFICATION_HTML	<p>Your account is being reviewed (existing address, INAMI number etc). You will be notified by email as soon as your account is validated.</p>	<p>Votre compte est en cours de vérification (adresse, numéro INAMI). Vous serez notifié par email lorsque votre compte est validé.</p>	<p>Uw account wordt gecontroleerd (adres, INAMI). Uw zal gewaarschuwd worden per email wanneer uw account aanvaard wordt.</p>
+Phone	Phone	Téléphone	Telefoon
+Pictures	Pictures	Images	Beelden
+Please_recommend_other_praticians	Trusted Community	Communauté de confiance	Betrouwbare gemeenschap
+Please_select_at_least_1_calendar_you_can_write_in_	Please select at least 1 calendar you can write in.	Veuillez sélectionner au moins un calendrier dans lequel vous pouvez écrire.	Selecteer ten minste 1 kalender waarin er geschreven kan worden.
+Please_select_which_calendars_you_wish_to_synchronize_with_Tooddoc_	Please select which calendars you wish to synchronize with Tooddoc.	Veuillez sélectionner quels calendriers vous souhaitez synchroniser avec Tooddoc.	Selecteer de kalenders dat u wenst te synchroniseren met Tooddoc.
+Please_verify_the_form	Please verify the form	Veuillez vérifier le formulaire	Controleer het formulier aub
+Previous	Previous	Précédent	Vorige
+Profile_updated_with_success	Profile updated with success	Profil mis à jour	Profiel aangepast
+RECOMMENDATIONS_DIALOG_ALERT_HTML	<p><strong>To whom would you like your patients to be redirected when you are away ?</strong> Refer trusted practitioners to strengthen the Tooddoc community !</p>	<p><strong>Vers qui souhaiteriez-vous que vos patients soient redirigés lorsque vous êtes absent ?</strong> Renseignez des praticiens de confiance pour renforcer la communauté Tooddoc !</p>	<p><strong>Naar welke artsen moeten uw patiënten doorverwezen worden wanneer u weg bent ?</strong> Raad ons betrouwbare beoefenaars aan om de Tooddoc gemeenschap te versterken !</p>
+Refresh	Refresh	Rafraîchir	Refresh
+Register	Register	S'enregistrer	Registreren
+Register_as_a_practicioner	Register as a practitioner	S'enregistrer en tant que praticien	Zich als zorgverlener registreren
+Remove_recommendation	Remove recommendation	Supprimer la recommandation	Aanbeveling verwijderen
+Saturday	Saturday	Samedi	Zaterdag
+Save_changes	Save changes	Sauvegarder	Opslaan
+Schedule	Schedule	Horaire	Uurrooster
+Select_an_availability	Select an availability	Sélectionnez une disponibilité	Tijdslot selecteren
+Select_an_avatar	Select an avatar	Sélectionnez un avatar	Avatar selecteren
+Select_an_office	Select an office	Sélectionnez un cabinet	Praktijk selecteren
+Show_early_times	Show early times	Plus tôt	Toon vroegere tijdslots
+Show_late_times	Show late times	Plus tard	Toon latere tijdslots
+Send	Send	Envoyer	Verzenden
+Sign_in_with_email	Sign in with Email	Se connecter par email	Aanmelden met email
+Sign_in_with_facebook	Sign in with Facebook	Se connecter par Facebook	Aanmelden met Facebook
+Sign_in_with_google	Sign in with Google	Se connecter par Google	Aanmelden met Google
+Sign_out	Sign Out	Se déconnecter	Afmelden
+Start	Start	Début	Begin
+Street	Street	Rue	Straat
+Sunday	Sunday	Dimanche	Zondag
+Symptoms	Symptoms	Symptômes	Symptomen
+Switch_language	Switch language	Changer de langage	Taal veranderen
+Thanks_for_your_support	Thanks for your support!	Merci pour votre soutien!	Bedankt voor uw steun!
+The_geolocation_failed_please_check_your_address	The geolocation failed. Please check your address.	La géolocalisation a échoué. Veuillez vérifier votre adresse.	De geolocalisatie mislukte. Controleer uw adres aub.
+The_phone_number_must_be_11_or_12_numeric_characters_starting_with_the_prefix__phonePrefix___	The phone number must be 11 or 12 numeric characters starting with the prefix {phonePrefix}.	Le numéro de téléphone contient 11 ou 12 caractères numériques, débutant par le préfixe {phonePrefix}.	Telefoonnummer is 11 of 12 tekens lang and begint met het voorvoegsel {phonePrefix}.
+Thuesday	Tuesday	Mardi	Dinsdag
+Thursday	Thursday	Jeudi	Donderdag
+Unlink_Account	Unlink account	Désynchroniser	Account verwijderen
+Unlink_your_account	Unlink your account	Désynchroniser votre compte	Uw account verwijderen
+Update	Update	Mettre à jour	Bewerken
+Update_office	Update office	Mettre le cabinet à jour	Praktijk gegevens bewerken
+Update_schedule	Update schedule	Mettre l'horaire à jour	Uurrooster bewerken
+Yes__Cancel	Yes, Cancel	Oui, annuler	Ja, annuleer
+Yes__Unlink	Yes, Unlink	Oui, désynchroniser	Ja, verwijder
+You_are_not_certified	You are not certified	Vous n'êtes pas certifié	U bent niet gecertifieerd
+You_dont_have_any_offices	You don't have any offices.	Vous n'avez pas encore de cabinet	U hebt geen praktijk
+Your_next_appointments	Your next appointments	Vos prochains rendez-vous	Uw volgende afspraken
+Your_profile	Your profile	Votre profil	Uw profiel
+Zip_code	Zip code	Code postal	Zip code
+Wednesday	Wednesay	Mercredi	Woensdag
+WELCOME_TIP_HTML	<h3>Welcome on Tooddoc, just one more step</h3><p>Now that your profile has been created all you need to start receiving emergencies alerts is to create your 1st medical office.</p><p class=\"mb-0\">Fill the form below with the information about your medical office and once your account has been verified, you'll start receiving alerts.</p>	<h3>Bienvenue sur Tooddoc, dernière étape</h3><p>Maintenant que votre profil est créé, tout ce qu'il vous reste à faire est d'enregistrer votre premier cabinet médical.</p><p class=\"mb-0\">Remplissez le formulaire ci-dessous avec les informations; dès que votre cabinet aura été vérifié, il sera rendu disponible pou	<h3>Welkom op Tooddoc, nog maar één stap!</h3><p>Nu dat uw profiel aangemaakt wordt, is al wat u nodig heeft een eerste praktijk.</p><p class=\"mb-0\">Vul het formulier in met de informatie over uw praktijk and zodra uw account door een admin gecertifieerd wordt zult u uw eerste afspraken krijgen.</p>
+validations	{	{	{
+firstName	first name	prénom	voornaam
+lastName	last name	nom	naam
+contactEmail	email	email	emailadres
+terms_and_conditions	terms and conditions	conditions d'utilisation et de vie privée	algemene voorwaarden
+type	type	pratique médicale	praktijk
+name	name	nom	naam
+email	email	email	email
+inami	INAMI	inami	INAMI
+schedule	schedule	horaire	uurrooster
+streetName	street name	rue	straat
+streetNumber	street number	numéro	nummer
+locality	locality	localité	plaats
+zipCode	zip code	code postal	zip code
+phone	phon	téléphon	telefoo
+Full_name	Full name	Nom complet	Voornaam en Naam
+Sign_in	Sign in	Se connecter	Aanmelden
+You_dont_have_availabilities_for_this_day	You don't have availabilities for this day.	Vous n'avez pas de disponibilités pour ce jour.	Je hebt geen beschikbaarheid voor deze dag.
+Your_next_availabilities	Your next availabilities	Vos prochaines disponibilités	Volgende beschikbaarheid
+Leave_without_saving	Leave without saving?	Quitter sans sauver ?	Verlaten zonder opslaan?
+LEAVE_WITHOUT_SAVING_HTML	Your modifications have not been saved. If you close now, you might lose your modifications.	Vos modifications n'ont pas été enregistrées. Si vous fermez maintenant, vous risquez de les perdre.	Uw veranderingen zijn niet opgeslagen. Als u nu verlaat zult u de veranderingen verliezen.
+Close_without_saving	Close without saving	Fermer sans sauver.	Verlaten zonder opslaan
+Today	Today	Aujourd'hui	Vandaag
+Tomorrow	Tomorrow	Demain	Morgen
+Office_details	Office Details	Détails du cabinet	Praktijkgegevens
+I_am_a_member_of_Osteopathie	I am a member of Ostéopathie.be	Je suis membre d'Ostéopathie.be	Ik ben lid van Osteopathie.be
+covid_notification	Due to COVID-19, a ministerial order forces the compulsory closure of doctors' offices. Patients can therefore no longer make appointments with you via Tooddoc; they will only have access to your telephone number.<br><br>Only emergency services organised by professional associations are authorised. We will adapt the platform accordingly once they have been identified.	covid_notification: "",	covid_notification: "",
+migration_notification	The old platform is no longer supported. We will therefore redirect you to this new, easier to use interface. You just have to register in the same way as before, your data has been migrated. If you forgot your password, enter your email then click on \"next\" and then \"connection problem\".	L'ancienne plate-forme n'est plus maintenue. Nous vous redirigeons donc vers cette nouvelle interface, plus simple d'utilisation. Vous pouvez vous enregistrer de la même manière que précédemment, vos données ont été migrées. Si vous avez oublié votre mot de passe, entrez votre email et cliquez sur \"next\" pui	Het oude platform wordt niet meer ondersteund. We zullen u daarom doorverwijzen naar deze nieuwe, gemakkelijker te gebruiken interface. U hoeft zich alleen maar te registreren op dezelfde manier als voorheen, uw gegevens zijn gemigreerd. Als u uw wachtwoord bent vergeten, vul dan uw e-mail in en klik op \"volgende\" en vervolgens op \"verbindingsprobleem\".
+Call	Call	Appeler	Opbellen
+Change_your_avatar	Change your avatar	Changer votre avatar	Verander je avatar
+Emergency_already_accepted	This emergency has already been accepted by another pratician.	Cette urgence a déjà été prise en charge par un autre praticien.	Dit patiënt werd al door een andere dokter ontvangen.
+You_dont_have_availabilities_for_this_day_during_business_hours	You don't have availabilities for this day during your business hours.	Selon votre horaire, vous n'avez pas de disponibilité ce jour-là.	U heeft geen beschikbaarheid voor deze dag tijdens uw praktijkuren.
+Office_accessibility	Is your office accessible to people with reduced mobility?	Est-ce que votre cabinet est accessible aux personnes à mobilité réduite?	Is uw kantoor toegankelijk voor mensen met beperkte mobiliteit?
+Office_card_payment	Do you offer payment by card?	Acceptez-vous les paiements par carte?	Accepteert u kaartbetalingen?
+Office_cash_payment	Do you offer payment by cash?	Acceptez-vous les paiements en liquide?	Accepteert u contante betalingen?
+Past_Appointments	Your past appointments	Vos rendez-vous précédents	Uw vorige afspraken
+Feedback_sent	Feedback sent	Feedback envoyé	Feedback verzonden
+RAS_Feedback	Nothing to report	Rien à signaler	Niets te melden
+LATE_Feedback	The patient was late	Le patient était en retard	De patiënt was te laat
+ABSENT_Feedback	The patient was absent	Le patient était absent	De patiënt was afwezig
+UNPLEASANT_Feedback	The patient was unpleasant	Le patient était désagréable	De patiënt was onaangenaam
+MAIL_Feedback	Contact us by mail	Contactez nous par mail	Contacteer ons per mail
+RAS_Feedback_Title	Everything went well? We’re glad to hear that!	Tout s’est bien passé? Nous sommes heureux de l’apprendre!	Alles goed gegaan? We zijn blij dat te horen!
+LATE_Feedback_Title	Thank you for the report! Our team is taking the necessary measures!	Merci pour votre retour! Nos équipes prennent les mesures nécessaires!	Bedankt voor het verslag! Ons team neemt de nodige maatregelen!
+ABSENT_Feedback_Title	Thank you for the report! Our team is taking the necessary measures!	Merci pour votre retour! Notre équipe prend les mesures nécessaires!	Bedankt voor het verslag! Ons team neemt de nodige maatregelen!
+UNPLEASANT_Feedback_Title	Thank you for the report! Our team is taking the necessary measures!	Merci pour votre retour! Nos équipes prennent les mesures nécessaires!	Bedankt voor het verslag! Ons team neemt de nodige maatregelen!
+MAIL_Feedback_Title	Contact us by mail	Contactez nous par mail	Contact us by mail
+Oste_tooltip	Recognized union, brings together osteopaths who meet high quality criteri	Union reconnue, regroupe les ostéopathes répondant à des critères de haute qualit	Erkende beroepsvereniging, verzamelt osteopaten die aan hoge kwaliteitscriteria voldoe
