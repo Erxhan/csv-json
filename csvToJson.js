@@ -25,10 +25,11 @@ fs.readFile('translations.tsv', (err, data) => {
             } else {
                 if (index !== 0) {
                     console.log('rowSplit[index] ===>', rowSplit[index])
-                    debugger;
-                    obj[index] = {...obj[index], [rowSplit[0]]: rowSplit[index]}
+                    const translation = index === rowSplit.length -1 ? rowSplit[index].split('\r')[0] : rowSplit[index]
+                    obj[index] = {...obj[index], [rowSplit[0]]: translation}
                 }
             }
+            return
         })
     })
 
@@ -40,14 +41,15 @@ fs.readFile('translations.tsv', (err, data) => {
 
     // Iterate over the object with index based names
     Object.entries(obj).forEach(([key, value]) => {
-        newObj[headers[key]] = value
+        return newObj[headers[key]] = value
     })
 
     // Iterate over each object in the new object and write a file based on the key ('en' => 'en.json', 'fr_BE' => 'fr_BE.json', 'nl_BE' => 'nl_BE.json')
     Object.entries(newObj).forEach(([key, value]) => {
-        return fs.writeFile(`${key}.json`, JSON.stringify(value, null, 2), (err) => {
+        return fs.writeFile(`${key.trim()}.json`, JSON.stringify(value, null, 2), (err) => {
             if (err) throw err;
             console.log('SUCCESS WRITING JSON')
+            return
         })
     })
 
